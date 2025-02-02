@@ -14,7 +14,7 @@ export default function Login() {
   };
 
   return (
-    <div className="h-full px-4 md:px-32 py-20 bg-blue-400 flex items-center justify-center">
+    <div className="h-full px-4 md:px-32 py-20 bg-black flex items-center justify-center">
       {/* Responsive grid */}
       <div className="grid sm:grid-cols-1 md:grid-cols-[70%_auto] w-full h-full rounded-lg overflow-hidden">
         
